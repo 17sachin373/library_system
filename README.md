@@ -1,4 +1,4 @@
-# library_system
+# library_management_system
 # Library Management System
 
 This is a simple Java-based Library Management System that allows users to add, remove, list, borrow, and return books.
